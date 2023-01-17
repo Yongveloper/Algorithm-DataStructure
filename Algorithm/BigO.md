@@ -66,4 +66,5 @@ O(2^n): 피보나치의 수를 재귀함수로 계산하는 알고리즘에 해�
 
 O(n!): 매우 느리고 입력값이 작아도 계산 속도가 매우 증가한다.
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbHfRZg%2FbtrV2PcaS3t%2FfZLl3FlNyq5AR3buSDdY60%2Fimg.png" width="450px" height="300px" title="BigO시간복잡도" alt="시간복잡도 표"></img><br/>
+
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FRPgu5%2FbtrVzUqpoCY%2FVKj7AG1qwGBUDj3fkKATY1%2Fimg.png" width="450px" height="300px" title="BigO시간복잡도" alt="시간복잡도 표"></img><br/>
