@@ -65,6 +65,7 @@ O(n^2): 중첩, 버블 정렬 같은 비 효율적인 알고리즘이다.
 O(2^n): 피보나치의 수를 재귀함수로 계산하는 알고리즘에 해당된다.
 
 O(n!): 매우 느리고 입력값이 작아도 계산 속도가 매우 증가한다.
+
 <img src="https://user-images.githubusercontent.com/64254228/212916956-13deb47f-328f-407c-ad65-accd6af04806.png" width="450px" height="300px" title="BigO시간복잡도" alt="시간복잡도 표"></img><br/>
 
 <img src="https://user-images.githubusercontent.com/64254228/212917061-595fe003-0674-42a7-b9c4-d50ae4a52350.png" width="450px" height="300px" title="BigO시간복잡도" alt="시간복잡도 표"></img><br/>
