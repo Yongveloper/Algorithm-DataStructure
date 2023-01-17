@@ -68,4 +68,8 @@ O(n!): 매우 느리고 입력값이 작아도 계산 속도가 매우 증가한
 
 <img src="https://user-images.githubusercontent.com/64254228/212916956-13deb47f-328f-407c-ad65-accd6af04806.png" width="450px" height="300px" title="BigO시간복잡도" alt="시간복잡도 표"></img><br/>
 
-<img src="https://user-images.githubusercontent.com/64254228/212917061-595fe003-0674-42a7-b9c4-d50ae4a52350.png" width="450px" height="300px" title="BigO시간복잡도" alt="시간복잡도 표"></img><br/>
+<img src="https://user-images.githubusercontent.com/64254228/212917061-595fe003-0674-42a7-b9c4-d50ae4a52350.png" width="450px" height="300px" title="BigO시간복잡도" alt="시간복잡도 표"></img>
+
+## 💡배열 메소드 Big-O
+
+<img src="https://user-images.githubusercontent.com/64254228/212918496-f4c9c4bb-4379-4a89-8c2d-e3b4a4b91cda.png" width="450px" height="300px" title="BigO시간복잡도" alt="시간복잡도 표"></img>
