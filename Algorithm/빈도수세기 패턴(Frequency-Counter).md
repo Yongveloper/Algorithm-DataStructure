@@ -4,7 +4,7 @@
 
 ## 📖 문제 예시
 
-2개의 배열을 받는 same이라는 함수를 작성하는데, 첫 번째 배열의 각 값의 제곱이 두 번째 배열에 속해 있으면 true를 반환 하고 아니면 false를 반환하는 함수를 만든다.
+2개의 배열을 받는 <code>same</code>이라는 함수를 작성하는데, 첫 번째 배열의 각 값의 제곱이 두 번째 배열에 속해 있으면 <code>true</code>를 반환 하고 아니면 <code>false</code>를 반환하는 함수를 만든다.
 각각의 빈도수가 맞아야 한다.
 
 ```javascript
@@ -13,7 +13,7 @@ same([1, 2, 3], [1, 9]); // false
 same([1, 2, 1], [4, 4, 9]); // false
 ```
 
-### 1. 중첩 for문(O(N^2)) 해결책
+### 1. 중첩 for문<code>(O(N^2))</code> 해결책
 
 ```javascript
 function same(arr1, arr2) {
@@ -31,9 +31,9 @@ function same(arr1, arr2) {
 return true;
 ```
 
-for문 안에 indexOf를 사용하여 값을 찾기 때문에 시간 복잡도는 O(N^2)이 된다.
+<code>for</code>문 안에 <code>indexOf</code>를 사용하여 값을 찾기 때문에 시간 복잡도는 <code>O(N^2)</code>이 된다.
 
-### 2. 빈도수 세기(O(N)) 패턴 해결책
+### 2. 빈도수 세기<code>(O(N))</code> 패턴 해결책
 
 ```javascript
 function same(arr1, arr2) {
@@ -62,10 +62,10 @@ function same(arr1, arr2) {
 }
 ```
 
-외부에 총 3개의 for문이 있지만 2개의 for문이 for문 내부에 중첩된 for문보다 시간복잡도성에서 훨씬 낫다.
-외부 for문에 1,000번을 적용한 후, 다음 내부 for문에 1,000번을 적용하면 1,000 \* 1,000 = 1,000,000 번이 된다.
+외부에 총 3개의 <code>for</code>문이 있지만 2개의 <code>for</code>문이 for문 내부에 중첩된 <code>for</code>문보다 시간복잡도성에서 훨씬 낫다.
+외부 <code>for</code>문에 1,000번을 적용한 후, 다음 내부 <code>for</code>문에 1,000번을 적용하면 1,000 \* 1,000 = 1,000,000 번이 된다.
 
-결론은 첫 번째O(N^2)의 코드보다 두 번째 O(N)의 코드가 효율성에서 훨씬 낫다.
+결론은 첫 번째<code>O(N^2)</code>의 코드보다 두 번째 <code>O(N)</code>의 코드가 효율성에서 훨씬 낫다.
 
 ### ❗ 주의사항
 
