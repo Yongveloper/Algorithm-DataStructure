@@ -11,6 +11,7 @@
 - [분할 정복(Divide and Conquer)](<./Algorithm/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5(DivideandConquer).md>)
 - [재귀 함수(recursion)](<./Algorithm/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98(recursion).md>)
 - [선형 검색(Linear Search)](<./Algorithm//%EC%84%A0%ED%98%95%20%EA%B2%80%EC%83%89(Linear%20Search).md>)
+- [이진 검색(Binary Search)](<./Algorithm//%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89(Binary-Search).md>)
 
 ## JavaScript
 
