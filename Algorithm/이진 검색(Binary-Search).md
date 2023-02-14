@@ -54,5 +54,5 @@ function binarySearch(arr, num) {
 
 ## 이진 검색의 Big O ⭐
 
-- 최악의 경우 또는 평균: <strong>O(log n)</strong>
-- 최고의 상황: <strong>O(1)</strong> (처음 중간점과 찾고자 하는 값이 같은 경우)
+- 최악의 경우 또는 평균: <code>O(log n)</code>
+- 최고의 상황: <code>O(1)</code> (처음 중간점과 찾고자 하는 값이 같은 경우)
