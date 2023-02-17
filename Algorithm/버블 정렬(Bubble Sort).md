@@ -38,6 +38,17 @@ function bubbleSort(arr) {
   }
   return arr;
 }
+
+function bubbleSort(arr) {
+  for (let i = 0; i < arr.length; i++) {
+    for (let j = 0; j < arr.length - i - 1; j++) {
+      if (arr[j] > arr[j + 1]) {
+        [arr[j], arr[j + 1]] = [arr[j + 1], arr[j]];
+      }
+    }
+  }
+  return arr;
+}
 ```
 
 해당 코드는 루프가 실행 되면서 정렬을 똑같이 하는데, 정렬이 되면서 점점 비교 횟수를 줄인다.
