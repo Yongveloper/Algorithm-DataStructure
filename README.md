@@ -16,6 +16,7 @@
 - 정렬
   - [버블 정렬(Bubble Sort)](<./Algorithm/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md>)
   - [선택 정렬(Selection Sort)](<./Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md>)
+  - [삽입 정렬(Insert Sort)](<./Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insert%20Sort).md>)
 
 ## JavaScript
 
