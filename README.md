@@ -14,9 +14,10 @@
   - [선형 검색(Linear Search)](<./Algorithm//%EC%84%A0%ED%98%95%20%EA%B2%80%EC%83%89(Linear%20Search).md>)
   - [이진 검색(Binary Search)](<./Algorithm//%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89(Binary-Search).md>)
 - 정렬
-  - [버블 정렬(Bubble Sort)](<./Algorithm/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md>)
-  - [선택 정렬(Selection Sort)](<./Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md>)
-  - [삽입 정렬(Insert Sort)](<./Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insert%20Sort).md>)
+  - [버블 정렬(Bubble Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md>)
+  - [선택 정렬(Selection Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md>)
+  - [삽입 정렬(Insert Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insert%20Sort).md>)
+  - [합병 정렬(Merge Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%ED%95%A9%EB%B3%91%20%EC%A1%8D%EB%9F%B4(Merge%20Sort).md>)
 
 ## JavaScript
 
