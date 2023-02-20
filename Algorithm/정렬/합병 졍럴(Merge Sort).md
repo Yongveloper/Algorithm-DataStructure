@@ -6,9 +6,9 @@
 
 합병정렬은 일반적으로 다음과 같은 세 단계로 구성된다.
 
-1. <strong>분할(divide)</strong>: 입력 리스트를 같은 크기의 두 개의 부분 리스트로 분할합니다. 이때 분할은 리스트의 중간 지점에서 수행된다.
+1. <strong>분할(divide)</strong>: 입력 리스트를 같은 크기의 두 개의 부분 리스트로 분할한다.. 이때 분할은 리스트의 중간 지점에서 수행된다.
 
-2. <strong>정복(conquer)</strong>: 각 부분 리스트를 재귀적으로 합병정렬을 이용해 정렬합니다. 이 과정은 입력 리스트의 크기가 충분히 작아질 때까지 반복된다.
+2. <strong>정복(conquer)</strong>: 각 부분 리스트를 재귀적으로 합병정렬을 이용해 정렬한다. 이 과정은 입력 리스트의 크기가 충분히 작아질 때까지 반복된다.
 
 3. <strong>합병(merge)</strong>: 정렬된 두 부분 리스트를 하나의 정렬된 리스트로 합병한다.
 
@@ -52,7 +52,7 @@ function merge(arr1, arr2) {
 }
 ```
 
-1. 입력 두 개를 취하는 함수를 정희하여 빈 배열을 만들고,마지막에 반환할 빈 배열을 만든다.
+1. 입력 두 개를 취하는 함수를 정의하여 빈 배열을 만들고,마지막에 반환할 빈 배열을 만든다.
 2. 각 입력 배열에서 가장 작은 값(처음)부터 시작한다.
 3. <code>i</code> 와 <code>j</code> 두 개의 카운터가 있다. 이 카운터들은 0부터 시작한다.
 4. 아직 살펴보지 않은 값이 있다면, 즉 <code>i</code>와 <code>j</code>가 각각의 배열 끝에 도달하지 않았다면
@@ -83,7 +83,7 @@ console.log(mergeSort([10, 24, 76, 73])); // [10, 24, 73, 76]
 
 ## 합병 정렬 Big O ⭐
 
-<img src="https://user-images.githubusercontent.com/64254228/220137606-2445e0db-0a48-4a18-a9b1-8ef1a97cde99.png" width="650px" height="100px" title="합병정렬빅오" alt="빅오"></img>
+<img src="https://user-images.githubusercontent.com/64254228/220137606-2445e0db-0a48-4a18-a9b1-8ef1a97cde99.png" width="650px" height="100px" title="합병정렬빅오" alt="빅오"></img></br>
 합병 정렬에서는 예외 케이스가 없다. 계속 나누고 나눈 다음 합치고 또 합칠 뿐이다.
 
 <code>O(log n)</code>은 만약 32개의 요소가 있다면 2x2x2x2x2라는 의미인데, <code>n log n</code>은 각 분할마다, 합병할 때 <code>O(n)</code>번 비교한다. <code>n</code>의 길이가 늘어난다면, 합병 정렬이 아닌 합병 알고리즘 자체는 <code>O(n)</code>의 시간 복잡도를 갖게 되는데 그래서 종합적으로 보면 합병 정렬의 Big O는 O<code>(n log n)</code>이 된다.
