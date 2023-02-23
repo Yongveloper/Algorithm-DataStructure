@@ -41,7 +41,7 @@ return array;
 
 ## 3. <code>forEach</code>에서 <code>return</code>과 <code>break</code>문이 동작하지 않는 이유 💡
 
-<img src="https://user-images.githubusercontent.com/64254228/220912452-37bb014d-f386-4091-9c23-b516eb041994.png" width="800px" height="400px" title="MDN forEach" alt="동작하지 않는 이유"></img><br/>
+<img src="https://user-images.githubusercontent.com/64254228/220912452-37bb014d-f386-4091-9c23-b516eb041994.png" width="800px" height="550px" title="MDN forEach" alt="동작하지 않는 이유"></img><br/>
 참고 [MDN 공식문서](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach#%EC%84%A4%EB%AA%85)
 
 ### <strong>1. <code>return</code>이 동작하지 않는 이유</strong>
