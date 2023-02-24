@@ -1,8 +1,8 @@
 # 📄 Today I Learned (TIL)
 
-하루동안 공부한 내용을 정리하고 기록하는 공간
+하루동안 공부하고 알게된 내용을 정리하고 기록하는 공간
 
-## 알고리즘
+## Algorithm
 
 - [빅오(Big-O)](./Algorithm//BigO.md)
 - [빈도수 세기 패턴(Frequency-Counter)](<./Algorithm/%EB%B9%88%EB%8F%84%EC%88%98%EC%84%B8%EA%B8%B0%20%ED%8C%A8%ED%84%B4(Frequency-Counter).md>)
@@ -10,10 +10,10 @@
 - [슬라이딩 윈도우(Sliding-Window)](./Algorithm//%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0.md)
 - [분할 정복(Divide and Conquer)](<./Algorithm/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5(DivideandConquer).md>)
 - [재귀 함수(recursion)](<./Algorithm/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98(recursion).md>)
-- 검색
+- Search
   - [선형 검색(Linear Search)](<./Algorithm//%EC%84%A0%ED%98%95%20%EA%B2%80%EC%83%89(Linear%20Search).md>)
   - [이진 검색(Binary Search)](<./Algorithm//%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89(Binary-Search).md>)
-- 정렬
+- Sort
   - [버블 정렬(Bubble Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md>)
   - [선택 정렬(Selection Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md>)
   - [삽입 정렬(Insert Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insert%20Sort).md>)
@@ -21,5 +21,6 @@
 
 ## JavaScript
 
-- [slice() vs splice() Array Method ](./JavaScript/sliceAndSplice.md)
-- [Array.forEach()에서의 return과 break](./JavaScript/forEach%EB%AC%B8%20return%2Cbreak.md)
+- Array Method
+  - [slice() vs splice()](./JavaScript/sliceAndSplice.md)
+  - [return and break of forEach() ](./JavaScript/forEach%EB%AC%B8%20return%2Cbreak.md)
