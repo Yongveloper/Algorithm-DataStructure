@@ -1,8 +1,11 @@
-# 📄 Today I Learned (TIL)
+# 📄 알고리즘 & 자료구조
 
-하루동안 공부하고 알게된 내용을 정리하고 기록하는 공간
+## 자료구조
 
-## Algorithm
+- [트리(Tree)](<./data_structure//%ED%8A%B8%EB%A6%AC(Tree).md>)
+- [우선순위 큐(Priority Queue)](<./data_structure/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90(Priority%20Queue).md>)
+
+## 알고리즘
 
 - [빅오(Big-O)](./Algorithm//BigO.md)
 - [빈도수 세기 패턴(Frequency-Counter)](<./Algorithm/%EB%B9%88%EB%8F%84%EC%88%98%EC%84%B8%EA%B8%B0%20%ED%8C%A8%ED%84%B4(Frequency-Counter).md>)
@@ -18,9 +21,3 @@
   - [선택 정렬(Selection Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md>)
   - [삽입 정렬(Insert Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insert%20Sort).md>)
   - [합병 정렬(Merge Sort)](<./Algorithm/%EC%A0%95%EB%A0%AC/%ED%95%A9%EB%B3%91%20%EC%A1%8D%EB%9F%B4(Merge%20Sort).md>)
-
-## JavaScript
-
-- Array Method
-  - [slice() vs splice()](./JavaScript/sliceAndSplice.md)
-  - [return and break of forEach() ](./JavaScript/forEach%EB%AC%B8%20return%2Cbreak.md)
