@@ -32,7 +32,7 @@
 ## 인접 리스트(Adjacency List)
 
 - 인접 리스트(Adjacency List)에서는 그래프를 리스트로 표현한다.
-  <img src="https://user-images.githubusercontent.com/64254228/232209358-a5c084bf-90f6-4f17-b9c0-18cf741c2648.png" width="500px" height="200px" title="인접리스트" alt="인접리스트사진" />
+<img src="https://user-images.githubusercontent.com/64254228/232209358-a5c084bf-90f6-4f17-b9c0-18cf741c2648.png" width="500px" height="200px" title="인접리스트" alt="인접리스트사진" />
 
 ## 인접 리스트 - 무방향 무가중치 그래프
 
