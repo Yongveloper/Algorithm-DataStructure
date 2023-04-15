@@ -31,4 +31,5 @@
 ### 높이 균형 트리(Height Balanced Tree)
 
 - 왼쪽 자식 트리와 오른쪽 자식 트리의 높이가 1 이상 차이 나지 않는 트리다.
-  <img src="https://user-images.githubusercontent.com/64254228/232207605-3df6555b-93a5-4a95-9783-2bceb9128f0b.png" width="400px" height="200px" title="트리" alt="트리사진" />
+
+<img src="https://user-images.githubusercontent.com/64254228/232207605-3df6555b-93a5-4a95-9783-2bceb9128f0b.png" width="400px" height="200px" title="트리" alt="트리사진" />
