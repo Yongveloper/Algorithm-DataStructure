@@ -5,6 +5,7 @@
 - [트리(Tree)](<./data_structure//%ED%8A%B8%EB%A6%AC(Tree).md>)
 - [우선순위 큐(Priority Queue)](<./data_structure/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90(Priority%20Queue).md>)
 - [그래프(Graph)](<./data_structure/%EA%B7%B8%EB%9E%98%ED%94%84(Graph).md>)
+- [탐욕 알고리즘(Greedy Algorithm)](<./Algorithm/%ED%83%90%EC%9A%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Greedy%20Algorithm).md>)
 
 ## 알고리즘
 
