@@ -2,6 +2,7 @@
 
 ## 자료구조
 
+- [큐(queue)](<./data_structure/%ED%81%90(Queue).md>)
 - [트리(Tree)](<./data_structure//%ED%8A%B8%EB%A6%AC(Tree).md>)
 - [우선순위 큐(Priority Queue)](<./data_structure/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90(Priority%20Queue).md>)
 - [그래프(Graph)](<./data_structure/%EA%B7%B8%EB%9E%98%ED%94%84(Graph).md>)
