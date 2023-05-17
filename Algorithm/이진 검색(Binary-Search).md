@@ -119,6 +119,8 @@ function countByRange(arr, leftValue, rightValue) {
   // 유의: lowerBound와 upperBound는 end 변수의 값을 배열의 길이로 설정
   const leftIndex = lowerBound(arr, leftValue, 0, arr.length);
   const rightIndex = lowerBound(arr, rightValue, 0, arr.length);
+
+  return rightIndex - leftIndex;
 }
 
 // 배열 선언
