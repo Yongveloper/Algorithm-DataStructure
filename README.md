@@ -20,6 +20,7 @@
 - [백트래킹(Backtracking)](<./Algorithm/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9(Backtracking).md>)
 - [깊이우선탐색(DFS)](<./Algorithm//%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(DFS).md>)
 - [너비우선탐색(BFS)](<./Algorithm/너비%20우선%20탐색(BFS).md>)
+- [동적 계획법(Dynamic Programming)](<./Algorithm/동적%20계획법(Dynamic%20Programming).md>)
 
 - Search
   - [선형 검색(Linear Search)](<./Algorithm//%EC%84%A0%ED%98%95%20%EA%B2%80%EC%83%89(Linear%20Search).md>)
